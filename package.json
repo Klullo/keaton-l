@@ -7,5 +7,9 @@
   },
   "dependencies": {
     "express": "^4.15.3"
-  }
+  },
+  "version": "1.0.0",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
 }
