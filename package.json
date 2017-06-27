@@ -3,7 +3,8 @@
   "description": "A Personal Website",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "postinstall": "bower install"
   },
   "dependencies": {
     "express": "^4.15.3"
