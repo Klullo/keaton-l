@@ -11,5 +11,13 @@
   "version": "1.0.0",
   "devDependencies": {},
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klullo/keaton-l.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Klullo/keaton-l/issues"
+  },
+  "homepage": "https://github.com/Klullo/keaton-l#readme"
 }
